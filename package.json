@@ -1,0 +1,31 @@
+{
+  "name": "blog-starter",
+  "version": "1.0.0",
+  "description": "simple blog cms with admin panel written in js with express, mongoose, pug and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illoRocks/blog-starter.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm",
+    "mongoose",
+    "blog",
+    "cms",
+    "authentification",
+    "passport",
+    "express",
+    "pug"
+  ],
+  "author": "Oliver Haag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/illoRocks/blog-starter/issues"
+  },
+  "homepage": "https://github.com/illoRocks/blog-starter#readme"
+}
